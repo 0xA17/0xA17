@@ -34,7 +34,7 @@
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postgres,powershell&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postgres,powershell&theme=dark)](https://github.com/M-R-8)
 
 <!--![VScode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-black?style=flat-square&logo=visual-studio&logoColor=ae86df)
