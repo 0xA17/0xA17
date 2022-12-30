@@ -42,9 +42,7 @@
 
 ### Other
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,discord,dotnet,azure,bots,figma,ps,pr,sqlite,unity" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,discord,dotnet,azure,bots,figma,ps,pr,sqlite,unity"/>
 
 ## 🏆 GITHUB PROFILE TROPHY 
 
