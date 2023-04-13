@@ -2,16 +2,16 @@
 
 <!--<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/M-R-8/count.svg" />
+  <img src="https://profile-counter.glitch.me/0xA17/count.svg" />
 </p>-->
 
 <p align="center">
-  <a href="https://github.com/M-R-8?tab=repositories&sort=stargazers">
+  <a href="https://github.com/0xA17?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2F0xd5f"/></a>
-  <a href="https://github.com/M-R-8?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/M-R-8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/M-R-8/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=M-R-8&style=for-the-badge&color=lightgrey"/></a>
+  <a href="https://github.com/0xA17?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xA17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/0xA17/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=0xA17&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
 ### Languages
@@ -34,7 +34,7 @@
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postgres,powershell&theme=dark)](https://github.com/M-R-8)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postgres,powershell&theme=dark)](https://github.com/0xA17)
 
 <!--![VScode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-black?style=flat-square&logo=visual-studio&logoColor=ae86df)
